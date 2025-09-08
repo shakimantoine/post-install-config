@@ -109,7 +109,8 @@ Examples: Business Critical Outage, Password Reset, Equipment Request, Personal 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1640" height="1798" alt="image" src="https://github.com/user-attachments/assets/6117e0d4-d184-4f01-ada0-cc36771e3cd7" />
+
 </p>
 <p>
 Step 1 – Access osTicket Panels
@@ -128,7 +129,8 @@ Admin Panel → Used for configuring osTicket (settings, permissions, etc.).
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1640" height="1798" alt="image" src="https://github.com/user-attachments/assets/1dbab05c-75b4-4cbf-bc14-498f3a4ae05f" />
+
 </p>
 <p>
 Step 2 – Configure Access and Organization
@@ -154,7 +156,8 @@ Example team: Online Banking.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1640" height="1798" alt="image" src="https://github.com/user-attachments/assets/440a69d2-cb46-4b17-81d2-e38c0cbb915e" />
+
 </p>
 <p>
 Step 3 – User & Agent Setup
@@ -179,7 +182,10 @@ Example: Karen, Ken.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1640" height="1798" alt="image" src="https://github.com/user-attachments/assets/4d918a97-0d4f-4739-b17d-f0c6610bd2df" />
+
+
+
 </p>
 <p>
 Step 4 – Configure SLAs and Help Topics
